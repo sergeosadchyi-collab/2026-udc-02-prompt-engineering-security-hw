@@ -9,7 +9,7 @@ for the WS2 sanitization exercise. Do NOT treat as real PII/secrets. Your task
 
 # JIRA-4821 — Bug: невірний розрахунок комісії для premium-рахунків
 
-**Priority:** High · **Component:** payments-core · **Reporter:** o.melnyk@examplebank.test
+**Priority:** High · **Component:** payments-core · **Reporter:** [REPORTER_EMAIL_REDACTED]
 
 ## Опис
 
